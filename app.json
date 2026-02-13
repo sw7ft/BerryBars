@@ -1,0 +1,26 @@
+{
+  "storeVersion": 1,
+  "repoBase": "https://raw.githubusercontent.com/sw7ft/BerryBars/main/",
+  "apps": [
+    {
+      "id": "com.sw7ft.mdeditor",
+      "name": "MarkEdit",
+      "version": "1.0.0",
+      "description": "Native markdown editor with live preview, task lists, tables, search & replace, and undo support.",
+      "author": "SW7FT",
+      "barFile": "MarkdownEditor.bar",
+      "sizeBytes": 42436,
+      "icon": "md"
+    },
+    {
+      "id": "com.sw7ft.voiceagent",
+      "name": "VoiceAgent",
+      "version": "1.0.0",
+      "description": "AI-powered voice assistant with speech recognition and text-to-speech for BlackBerry 10.",
+      "author": "SW7FT",
+      "barFile": "VoiceAgent.bar",
+      "sizeBytes": 48138,
+      "icon": "voice"
+    }
+  ]
+}
